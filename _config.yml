@@ -1,1 +1,21 @@
-  theme: jekyll-theme-modernist
+title: The Art of Radical Listening
+email: contact@example.com
+description: >-
+  A book about how listening deeply can transform relationships, organizations, and the planet.
+baseurl: "" # Blank for user/organization site
+url: "https://kusmer.github.io"
+github_username: kusmer
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: "Your Name"
+  location: "Your Organization or City"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
