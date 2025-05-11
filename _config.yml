@@ -1,18 +1,19 @@
-title: The Art of Radical Listening
-email: contact@example.com
-description: >-
-  A book about how listening deeply can transform relationships, organizations, and the planet.
-baseurl: "" # Blank for user/organization site
-url: "https://kusmer.github.io"
-github_username: kusmer
+title: Freelancer
+email: your-email@example.com
+description: A Jekyll version of the Freelancer theme by Start Bootstrap
+baseurl: "" 
+url: "https://yourusername.github.io"
+github_username: yourusername
 
 markdown: kramdown
+theme: minima
 plugins:
   - jekyll-seo-tag
 
+# Personalization
 author:
-  name: "Your Name"
-  location: "Your Organization or City"
+  name: "Start Bootstrap"
+  location: "Internet"
 
 exclude:
   - Gemfile
