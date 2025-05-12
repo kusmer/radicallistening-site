@@ -16,3 +16,16 @@
   background-color: var(--bs-primary) !important;
 }
 
+@media (max-width: 576px) {
+  .img-fluid {
+    max-width: 40%;
+    padding-bottom: 30px;
+  }
+  #mainheader {
+    text-align: center;
+  }
+  #synopsis div h2 {
+    text-align: center;
+  }
+}
+
