@@ -491,3 +491,7 @@ footer .footer-below {
   display: inline-block;
   vertical-align: middle;
 }
+
+.navbar-brand {
+    padding: 0 0 0 0;
+}
