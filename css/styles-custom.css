@@ -29,9 +29,10 @@
   }
   .navbar-brand {
     max-width: 60% !important;
+    margin-right: -40px;
   }
   .navbar-logo {
-    max-width: 80%;
+    max-width: 100%;
   }
 }
 
