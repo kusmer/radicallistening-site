@@ -5,7 +5,7 @@
 }
 
 .navbar-logo {
-  max-height: 70px; /* Adjust for desired height */
+  max-height: 70px;
   height: auto;
   width: auto;
   display: inline-block;
@@ -26,6 +26,12 @@
   }
   #synopsis div h2 {
     text-align: center;
+  }
+  .navbar-brand {
+    max-width: 75%;
+  }
+  .navbar-logo {
+    max-width:75%;
   }
 }
 
