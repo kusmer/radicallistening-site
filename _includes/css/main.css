@@ -485,7 +485,7 @@ footer .footer-below {
 
 /* Abvio */
 .navbar-logo {
-  max-height: 40px; /* Adjust for desired height */
+  max-height: 80px; /* Adjust for desired height */
   height: auto;
   width: auto;
   display: inline-block;
