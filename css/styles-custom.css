@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+:root {
+  --bs-primary: #01984b; /* Replace this with your preferred green */
+}
+
 .navbar-logo {
   max-height: 70px; /* Adjust for desired height */
   height: auto;
@@ -7,3 +11,8 @@
   display: inline-block;
   vertical-align: middle;
 }
+
+.bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+
