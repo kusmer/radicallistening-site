@@ -482,3 +482,12 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Abvio */
+.navbar-logo {
+  max-height: 40px; /* Adjust for desired height */
+  height: auto;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
