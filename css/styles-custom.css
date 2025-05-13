@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
 :root {
-  --bs-primary: #01984b; /* Replace this with your preferred green */
+  --bs-primary: #01984b;
+  --bs-secondary: #dcc331;
 }
 
 .navbar-logo {
@@ -16,6 +17,20 @@
   background-color: var(--bs-primary) !important;
 }
 
+.bg-primary-secondary {
+  background-color: var(--bs-secondary) !important ;
+}
+
+.pic-left {
+  float: left;
+  width: 200px; 
+  margin: 0 20px 10px 0px;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
 @media (max-width: 576px) {
   .img-fluid {
     max-width: 40%;
@@ -24,7 +39,7 @@
   #mainheader {
     text-align: center;
   }
-  #synopsis div h2 {
+  #synopsis div h2, #authors div h2 {
     text-align: center;
   }
   .navbar-brand {
@@ -33,6 +48,10 @@
   }
   .navbar-logo {
     max-width: 100%;
+  }
+
+  .pic-left {
+    width: 150px;
   }
 }
 
