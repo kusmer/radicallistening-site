@@ -33,7 +33,6 @@ h2 {
 
 @media (max-width: 576px) {
   .img-fluid {
-    max-width: 40%;
     padding-bottom: 30px;
   }
   #mainheader {
