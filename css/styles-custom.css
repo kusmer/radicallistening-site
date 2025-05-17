@@ -39,6 +39,9 @@ h2 {
   .img-fluid {
     padding-bottom: 30px;
   }
+  .modal-content .img-fluid {
+    margin-bottom: 0px !important;
+  }
   #mainheader {
     text-align: center;
   }
