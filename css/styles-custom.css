@@ -42,6 +42,9 @@ h2 {
   #mainheader {
     text-align: center;
   }
+  #mainheader img {
+    width: 40%;
+  }
   #about div h2, #authors div h2 {
     text-align: center;
   }
