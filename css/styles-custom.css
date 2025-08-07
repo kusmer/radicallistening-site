@@ -64,3 +64,25 @@ h2 {
   }
 }
 
+#engage a {
+  --bs-link-color: #212529 !important;
+  --bs-link-hover-color: #212529 !important;
+  color: #212529 !important;
+}
+
+#engage a:hover {
+  color: #212529 !important;
+}
+
+#engage a h4 {
+  color: #212529 !important;
+}
+
+#engage a p {
+  color: #212529 !important;
+}
+
+#engage a span {
+  color: #212529 !important;
+}
+
