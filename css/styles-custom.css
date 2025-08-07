@@ -86,3 +86,7 @@ h2 {
   color: #212529 !important;
 }
 
+#engage .portfolio-item .portfolio-item-caption {
+  background-color: rgba(180, 160, 35, 0.8);
+}
+
