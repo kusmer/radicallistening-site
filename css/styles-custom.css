@@ -42,6 +42,10 @@ h2 {
   .modal-content .img-fluid {
     margin-bottom: 0px !important;
   }
+  /* Reduce spacing between photos and photo credits */
+  .portfolio-item .img-fluid {
+    padding-bottom: 0px;
+  }
   #mainheader {
     text-align: center;
   }
